@@ -1,0 +1,13 @@
+C:\Users\knedbal\source\repos\Week3\Lab3.1StudentInfo\bin\Debug\netcoreapp3.1\Lab3.1StudentInfo.exe
+C:\Users\knedbal\source\repos\Week3\Lab3.1StudentInfo\bin\Debug\netcoreapp3.1\Lab3.1StudentInfo.deps.json
+C:\Users\knedbal\source\repos\Week3\Lab3.1StudentInfo\bin\Debug\netcoreapp3.1\Lab3.1StudentInfo.runtimeconfig.json
+C:\Users\knedbal\source\repos\Week3\Lab3.1StudentInfo\bin\Debug\netcoreapp3.1\Lab3.1StudentInfo.runtimeconfig.dev.json
+C:\Users\knedbal\source\repos\Week3\Lab3.1StudentInfo\bin\Debug\netcoreapp3.1\Lab3.1StudentInfo.dll
+C:\Users\knedbal\source\repos\Week3\Lab3.1StudentInfo\bin\Debug\netcoreapp3.1\Lab3.1StudentInfo.pdb
+C:\Users\knedbal\source\repos\Week3\Lab3.1StudentInfo\obj\Debug\netcoreapp3.1\Lab3.1StudentInfo.csprojAssemblyReference.cache
+C:\Users\knedbal\source\repos\Week3\Lab3.1StudentInfo\obj\Debug\netcoreapp3.1\Lab3.1StudentInfo.AssemblyInfoInputs.cache
+C:\Users\knedbal\source\repos\Week3\Lab3.1StudentInfo\obj\Debug\netcoreapp3.1\Lab3.1StudentInfo.AssemblyInfo.cs
+C:\Users\knedbal\source\repos\Week3\Lab3.1StudentInfo\obj\Debug\netcoreapp3.1\Lab3.1StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\knedbal\source\repos\Week3\Lab3.1StudentInfo\obj\Debug\netcoreapp3.1\Lab3.1StudentInfo.dll
+C:\Users\knedbal\source\repos\Week3\Lab3.1StudentInfo\obj\Debug\netcoreapp3.1\Lab3.1StudentInfo.pdb
+C:\Users\knedbal\source\repos\Week3\Lab3.1StudentInfo\obj\Debug\netcoreapp3.1\Lab3.1StudentInfo.genruntimeconfig.cache
